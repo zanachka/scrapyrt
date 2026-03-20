@@ -1,7 +1,7 @@
 Changes
 =======
 
-ScrapyRT 0.18.0 (unreleased)
+ScrapyRT 0.18.0 (2026-03-20)
 ----------------------------
 
 -   You can now use the settings module of your Scrapy project to configure
